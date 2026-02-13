@@ -1,0 +1,7 @@
+{
+  "name": "Rio Bonito Storage Yard",
+  "description": "Premium secure storage solutions for Boats, RVs, and Trucks. Located near nature with state-of-the-art security.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
