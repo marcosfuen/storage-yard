@@ -28,7 +28,7 @@ const Footer: React.FC = () => {
           <div>
             <h4 className="font-black text-rio-orange mb-8 uppercase text-xs tracking-[0.4em]">{t.footer.hours}</h4>
             <ul className="space-y-2 text-blue-100/80 text-sm font-medium">
-              <li>Mon - Fri: 8:00 AM - 6:00 PM</li>
+              <li>Mon - Fri: 8:00 AM - 5:30 PM</li>
               <li>Sat: 9:00 AM - 4:00 PM</li>
               <li className="pt-4 text-white font-black italic border-t border-white/10">{t.footer.access}</li>
             </ul>
